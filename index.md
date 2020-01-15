@@ -1,3 +1,0 @@
----
-title: Simon Long - Test Coach
----
