@@ -1,3 +1,5 @@
+****ALWAYS TRY AND USE VM FOR CYPRESS TESTING.   
+WHEN OPENING CYPRESS IN VISUAL STUDIO CODE - TO AVOID DUPLICATE CYPRESS STRUTURE FILES OPENING - ONLY OPEN TOP LEVAL FOLDER : NPMCYPRESS
 
 MAIN FOLDER FOR ALL CYPRESS DOCUMENTATION :  C:\Users\LDEV539\github\simonlongtester.github.io
 
@@ -7,44 +9,18 @@ Repsotitories:
 MAIN CYPRESS REPO GOING FORWARD THAT VISUAL CODE SHOULD LOOK FOR SHOULD CALLED NPMCYPRESS - **DONE** IS THIS ON VM? YES 
 MAIN MACHINE : AWS INSTANCE  **DONE** C:\Users\IgniteAdmin\NPMCYPRESS
 
-
-WORK LAPTOP - TWO REPOS
-
-	C:\Users\LDEV539\NewNPMCypress\cypress
-		Last clean working version on laptop
-		Used at work between xmas and new
-		Has my own test files "simontest-spec.js" - good one for demos - NOW IN REPO AND ON VCOM
-
-
-
-AWS INSTANCE 
-
-
-	C:\Users\IgniteAdmin\cypresstau\todomvc-tests
 		
 
 
-
-home laptop
-
-	c:\cypressNPM
-		seems to be where I put my example 
-		contains simontemplate_spec where i was following the course on and have documented quite a bit - NOW IN REPO
-		
-
-
-TASKS
-
-
-
+**TASKS**
 DONE TASKS
 	STORE INFO ON GITHUB? - create github folder on work laptop - SUGGEST EVERYTHING CONNECTED TO CYPRESS IS STORED IN HERE -
 	INSTALL GITHUB IN INSTANCE
 	SUGGEST KEEPING NEWNPMCYPRESS AS MAIN CYPRESS FOLDER AND SYNCH THIS BETWEEN ALL DEVICES -**doesnt appear to like this**
 
-tips / hints
-npx cypress open
 
+**tips / hints**
+	npx cypress open
 
 
 WHAT DO I NEED TO GET GOING ON CYPRESS? https://testautomationu.applitools.com/cypress-tutorial/chapter1.html
@@ -92,6 +68,24 @@ Installing Cypress via NPM - Node Package manage
 
 
 
+
+
+
+****REFRENCE INFO FROM CONSOLIDATION:*****************
+
+	WORK LAPTOP - TWO REPOS
+		C:\Users\LDEV539\NewNPMCypress\cypress
+			Last clean working version on laptop
+			Used at work between xmas and new
+			Has my own test files "simontest-spec.js" - good one for demos - NOW IN REPO AND ON VCOM
+
+	AWS INSTANCE 
+		C:\Users\IgniteAdmin\cypresstau\todomvc-tests
+		
+	home laptop
+		c:\cypressNPM
+			seems to be where I put my example 
+			contains simontemplate_spec where i was following the course on and have documented quite a bit - NOW IN REPO
 
 
 
