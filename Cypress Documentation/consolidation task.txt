@@ -1,0 +1,107 @@
+
+MAIN FOLDER FOR ALL CYPRESS DOCUMENTATION :  C:\Users\LDEV539\github\simonlongtester.github.io
+
+
+Repsotitories:
+
+MAIN CYPRESS REPO GOING FORWARD THAT VISUAL CODE SHOULD LOOK FOR SHOULD CALLED NPMCYPRESS - **DONE**
+MAIN MACHINE : AWS INSTANCE  **DONE**
+
+
+WORK LAPTOP - TWO REPOS
+
+	C:\Users\LDEV539\NewNPMCypress\cypress
+		Last clean working version on laptop
+		Used at work between xmas and new
+		Has my own test files "simontest-spec.js" - good one for demos - NOW IN REPO
+
+
+
+AWS INSTANCE 
+
+
+	C:\Users\IgniteAdmin\cypresstau\todomvc-tests
+		
+
+
+
+home laptop
+
+	c:\cypressNPM
+		seems to be where I put my example 
+		contains simontemplate_spec where i was following the course on and have documented quite a bit - NOW IN REPO
+		
+
+
+TASKS
+
+
+
+
+
+
+SUGGEST KEEPING NEWNPMCYPRESS AS MAIN CYPRESS FOLDER AND SYNCH THIS BETWEEN ALL DEVICES
+
+DONE TASKS
+STORE INFO ON GITHUB? - create github folder on work laptop - SUGGEST EVERYTHING CONNECTED TO CYPRESS IS STORED IN HERE -
+INSTALL GITHUB IN INSTANCE
+
+
+tips / hints
+npx cypress open
+
+
+
+WHAT DO I NEED TO GET GOING ON CYPRESS? https://testautomationu.applitools.com/cypress-tutorial/chapter1.html
+
+reccomend on a AWS instance as local laptop has restrictions
+
+
+
+PRE-REQ 1
+	INSTALL NODE https://nodejs.org/en/
+
+		If you already have NodeJS installed, ensure that the version is equal or greater than v8. Let’s see how.
+
+		Open a terminal window and type:
+
+
+		node --version
+
+
+PRE- REQ 2
+	install visual studio code - why?  To allow you to create files , scripts  and also allows you to open up a command line / terminal
+	https://code.visualstudio.com/
+
+PRE-REQ 3
+	ACCESS TO AWS INSTANCE
+
+Installing Cypress via NPM - Node Package manage
+
+1. CREATE A NEW PROJECT FOLDER - THIS IS WHERE EVERYTHING TO DO WITH CYPRESS WILL BE STORED INCLUDING FILES TO RUN.
+	EITHER CREATE A FOLDER USING WINDOWS EXPLORE OR USING VISUAL STUDIO TERMINAL Window (mkdir FOLDERNAME)
+2. Now we need to create a Package.JSON file in the root of the main folder
+ 	open a VS Code terminal and run npm init -y.
+		This is effectly a config file for the project and contains dependancies.  for example Cypress will be a dependancy for this project to run
+
+3. In the new project folder now there should be a package.json folder.  
+	When we install cypress, NPM needs to register the fact that Cypress is installed in our test folder, and it does so inside our package.json. This is why we need the package.json, and which is why we ran npm init -y.
+4.In the VS Code terminal window we can now download and install cypress to that specifc folder.
+	Type in on command line :   npm install cypress@3
+	
+	Note About Cypress NPM Installation
+	The first time on your computer, it might take a while, because besides the Cypress code, it’s also downloading a special version of Chrome that it will use to run the app and the tests. 
+	So, yeah, that’s another thing about Cypress — it currently runs your apps only under Chrome.
+
+5. Run Cypress
+
+
+
+
+
+
+
+
+
+
+
