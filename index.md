@@ -8,6 +8,7 @@ Follow me on [Linkedin](www.linkedin.com/in/simonlongtester)
 
 Below you will find blogs that I will publish from time to time!  
 
-Blog number 1 [Learning Cypress from Scratch  a journey to become more technical aware]( https://github.com/simonlongtester/simonlongtester.github.io/blob/master/blog1.md)
-
+* Blog number 1 [Learning Cypress from Scratch  a journey to become more technical aware]( https://github.com/simonlongtester/simonlongtester.github.io/blob/master/blog1.md)
+* Blog number 2
+* Blog number 3
 
