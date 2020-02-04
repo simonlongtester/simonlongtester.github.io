@@ -1,7 +1,9 @@
 # Simon Long
 ## Test Coach , Test Leader, Test Advocate, Tester - basically loves talking and doing all things testing!
 
-Follow me on [Linkedin](https://www.linkedin.com/in/simonlongtester)
+Follow me on either
+* [Linkedin](https://www.linkedin.com/in/simonlongtester)
+* [Twitter](https://twitter.com/simonlongtester)
 
 
 ### The Test Advocate Blogs! 
