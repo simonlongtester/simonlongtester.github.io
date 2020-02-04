@@ -6,6 +6,8 @@ Follow me on [Linkedin](www.linkedin.com/in/simonlongtester)
 
 ### The Test Advocate Blogs! 
 
-[Learning Cypress from Scrstch - a journey to become more technical aware!]
+Below you will find blogs that I will publish from time to time!  
+
+Blog number 1 [Learning Cypress from Scrstch - a journey to become more technical aware!] ()
 
 
