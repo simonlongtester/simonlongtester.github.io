@@ -10,7 +10,7 @@
 
 Below you will find <b>blogs</b> that I will publish from time to time!  
 
-1. Blog number 1 [Learning Cypress from Scratch  a journey to become more technical aware](blog1)
+1. [Learning Cypress from Scratch  a journey to become more technical aware](blog1)
 
 2. Blog number 2
 
