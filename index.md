@@ -11,11 +11,7 @@
 Below you will find <b>blogs</b> that I will publish from time to time!  
 
 * Blog number 1 [Learning Cypress from Scratch  a journey to become more technical aware](blog1)
-* Blog number 2
-* Blog number 3
+2. Blog number 2
+2. Blog number 3
 
-<form action="/action_page.php">
-  First name: <input type="text" name="fname"><br>
-  Last name: <input type="text" name="lname"><br>
-  <input type="submit" value="Submit">
-</form
+
