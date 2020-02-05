@@ -1,4 +1,4 @@
-## Simon Long Tester - <i>| Coach | Leader | Advocate | Novice Public Speaker!</i>
+## Simon Long Tester - <i>| Coach | Leader | Advocate | !</i>
 
 ### Loves talking and doing all things testing related!  
 
