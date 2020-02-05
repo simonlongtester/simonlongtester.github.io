@@ -1,3 +1,5 @@
+<title>this is testing the title</title>
+
 #Simon Long - Tester, Test Coach, Test Leader, Test Advocate, - basically loves talking and doing all things testing!
 ## How I fell into testing and how I keep myself on my toes!
 
