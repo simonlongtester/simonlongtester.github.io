@@ -1,6 +1,6 @@
-## Simon Long - Tester -Test Coach -Test Leader -Test Advocate
+## Simon Long Tester - <i>Coach  Leader   Advocate</i>
 
-### Loves talking and doing all things testing!
+### Loves talking and doing all things testing related!
 
 #### A bit about me
 
