@@ -12,7 +12,7 @@ Below you will find <b>blogs</b> that I will publish from time to time!
 
 1. [Learning Cypress from Scratch  a journey to become more technical aware](blog1)
 
-2. Blog number 2
+2. [How I fell into testing and how I keep myself on my toes!](blog2)
 
 3. Blog number 32
 
