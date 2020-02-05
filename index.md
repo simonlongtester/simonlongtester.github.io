@@ -1,5 +1,8 @@
-#Simon Long - The Testing Advocate
-##Tester -Test Coach -Test Leader -Test Advocate  <b>basically loves talking and doing all things testing!</b>
+# Simon Long - The Testing Advocate
+
+## Tester -Test Coach -Test Leader -Test Advocate  basically loves talking and doing all things testing!
+
+### A bit about me
 
  Follow me on either
 * [Linkedin](https://www.linkedin.com/in/simonlongtester)
