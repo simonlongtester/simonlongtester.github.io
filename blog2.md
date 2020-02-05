@@ -1,5 +1,4 @@
-Simon Long - Tester, Test Coach, Test Leader, Test Advocate, - basically loves talking and doing all things testing!
-===================================================================================================================
+#Simon Long - Tester, Test Coach, Test Leader, Test Advocate, - basically loves talking and doing all things testing!
 ## How I fell into testing and how I keep myself on my toes!
 
 Wow.  So here we are.  Strange introduction you may think (and I agree it probably is!) however this is my frst <b>EVER</b blog!  #excitingtimesforsimon!  I am not sure how this whole blogging journey is going to go but I thought I would give it a whirl!  I intend to start blogging on varioius topics but there will be a key theme throughout - the content will be based  <i>my experiences </i> with the hope that sharing my own experiences and views (which you may disagree with, thats cool)
