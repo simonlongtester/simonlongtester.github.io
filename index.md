@@ -22,3 +22,8 @@ Below you will find blogs that I will publish from time to time!
 1. [How I fell into testing and how I keep myself on my toes!](Blogs/mytestingjourney) - <B>NEW</B>
 
 2. [Learning Cypress from Scratch - my journey to become more technical aware](Blogs/LearningCypressfromscratch)  <B>Watch this space</B>
+
+
+#### Latest Posts
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6631562053125447684" height="437" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
