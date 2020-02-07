@@ -21,7 +21,7 @@ Below you will find blogs that I will publish from time to time!
 
 1. [How I fell into testing and how I keep myself on my toes!](Blogs/mytestingjourney) - <B>NEW</B>
 
-2. [Learning Cypress from Scratch - my journey to become more technical aware](blog1)  <B>Watch this space</B>
+2. [Learning Cypress from Scratch - my journey to become more technical aware](Blogs/LearningCypressfromscratch)  <B>Watch this space</B>
 
 
 
