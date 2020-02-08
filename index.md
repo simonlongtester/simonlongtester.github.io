@@ -4,8 +4,6 @@
 
 #### The blurb about me
 
-<img src="_C3A8105.jpg">
-
 I am passionate about the art and craft of Testing.  I strongly believe that testing in all its various forms is a creative process.  I am lucky enough to have spent 13 years doing something that really gets me out of bed every morning, experiencing different environments from Financial Services , Higher Education , Retail (Food) to my current role in Retail E-Commerce.
 
 My journey in testing has led me into various exciting roles such as Test Analysis, Test Lead, Test Management and now a Test Coach role! I have also jumped into Defect Management roles on numerous projects, something I still consider a secret one of my 'go-to# comfort skills!  Life is never boring as a tester :)
