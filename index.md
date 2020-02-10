@@ -4,6 +4,7 @@
 
 #### The blurb about me
 
+![alt text](/images/_C3A8105.jpg "Title")
 
 I am passionate about the art and craft of Testing.  I strongly believe that testing in all its various forms is a creative process.  I am lucky enough to have spent 13 years doing something that really gets me out of bed every morning, experiencing different environments from Financial Services , Higher Education , Retail (Food) to my current role in Retail E-Commerce.
 
