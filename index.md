@@ -11,7 +11,7 @@ My journey in testing has led me into various exciting roles such as Test Analys
 
 I am personally proud to have shaped and lead a Technical Testing Team as well as developing and implementing a new testing capability at a UK University. Oh , and I do not count myself as technical - something I am trying to address :)
 
-Follow me on either
+**Follow me on**
 * [Linkedin](https://www.linkedin.com/in/simonlongtester)
 * [Twitter](https://twitter.com/simonlongtester)
 
