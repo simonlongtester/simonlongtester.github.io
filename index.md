@@ -4,14 +4,13 @@
 
 #### The blurb about me
 
-
 I am passionate about the art and craft of Testing.  I strongly believe that testing in all its various forms is a creative process.  I am lucky enough to have spent 13 years doing something that really gets me out of bed every morning, experiencing different environments from Financial Services , Higher Education , Retail (Food) to my current role in Retail E-Commerce.
 
 My journey in testing has led me into various exciting roles such as Test Analysis, Test Lead, Test Management and now a Test Coach role! I have also jumped into Defect Management roles on numerous projects, something I still consider one of my go-to comfort skills!  Life is never boring as a tester :)
 
 I am personally proud to have shaped and lead a Technical Testing Team as well as developing and implementing a new testing capability at a UK University. Oh , and I do not count myself as technical - something I am trying to address :)
-s
-Follow me on either
+
+**Follow me on**
 * [Linkedin](https://www.linkedin.com/in/simonlongtester)
 * [Twitter](https://twitter.com/simonlongtester)
 
