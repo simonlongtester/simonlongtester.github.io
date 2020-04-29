@@ -19,9 +19,9 @@ I am personally proud to have shaped and lead a Technical Testing Team as well a
 
 Below you will find blogs that I will publish from time to time!  
 
-1. [How I fell into testing and how I keep myself on my toes!](Blogs/mytestingjourney) - <B>NEW</B>
+1. [How I fell into testing and how I keep myself on my toes!](Blogs/mytestingjourney) 
 
-2. [Learning Cypress from Scratch - my journey to become more technical aware](Blogs/LearningCypressfromscratch)  <B>Watch this space</B>
+2. [From Test Manager to Test Engineer - Dusting off the Cobwebs](Blogs/From Test Manager to Test Engineer - Dusting off the Cobwebs) - <B>NEW</B>
 
 
 #### Latest Social!
