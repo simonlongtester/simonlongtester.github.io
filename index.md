@@ -21,7 +21,7 @@ Below you will find blogs that I will publish from time to time!
 
 1. [How I fell into testing and how I keep myself on my toes!](Blogs/mytestingjourney) 
 
-2. [From Test Manager to Test Engineer - Dusting off the Cobwebs](Blogs/From Test Manager to Test Engineer - Dusting off the Cobwebs) - <B>NEW</B>
+2. [From Test Manager to Test Engineer - Dusting off the Cobwebs](Blogs/FromTestManagertoTestEngineerDustingofftheCobwebs) - <B>NEW</B>
 
 
 #### Latest Social!
