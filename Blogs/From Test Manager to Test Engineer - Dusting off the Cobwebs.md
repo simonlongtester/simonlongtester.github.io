@@ -4,7 +4,7 @@ Firstly, I hope everyone is staying safe and sane in these extraordinary times. 
 
 ### Context is king…
 To give some context to this blog the main story I would like to tell is how I recently have started on a path to transition from my role as Test Manager/Test Coach  to undertaking a Test Engineer role to support the organisation I work for.  Spoilers: this is not a happy clappy narrative but is more of an honest, personal view of how this change has / is affecting me, and how I am affecting the change!
-A potted history.  I started in testing in 2007 as a Test Analyst.  I spent 7 years being hands on through various test positions until 2014 where I started my test leadership career.  I have subsequently spent the next 6 years in various Test Manager / coaching roles and really immensely enjoyed learning the skills I was able to grow.  I was comfortable but constantly kept pushing myself further along the career path …  and then along came COVID 19……
+A potted history.  I started in testing in 2007 as a Test Analyst.  I spent 7 years being hands on through various test positions until 2014 where I started my test leadership career.  I have subsequently spent the next 6 years in various Test Manager / Coach roles and really immensely enjoyed learning the skills I was able to grow.  I was comfortable but constantly kept pushing myself further along the career path …  and then along came COVID 19……
 
 ### Ch ch ch changes..
 In March it became apparent that all forms of our daily lives would be impacted by COVID19.  From a testing perspective, the change affected me thus.  In order to  support the organisation I work for there was a need for me to changes roles for a short/medium term from Test Manager to a Test Engineer – becoming more hands on, going from providing coaching and leadership to our testers in numerous squads  to focussing and being part of a squad.
@@ -17,10 +17,10 @@ Upon starting my new role within our fantastic Digital App Squad, I realised tha
 In my first few weeks I have learned about our app release process, from using firebase to download the latest branches of code to test, through to understanding how our test environments need to be configured.  It has been an enjoyable but steep learning curve – especially when as a Test Manager you have become used to your test leads doing this 😊   
 
 As it became apparent my mindset had blinded me from the task in hand, I started to feel:
-*A sense of shock – at not being able to immediately recall skills like test design I took for granted those years ago took 
-*I felt surprisingly out of my comfort zone  
-*Occasional feeling of helplessness – why is it taking me so longer to understand “the basics”
-*Ultimately the old friend imposter syndrome came visiting - causing me to ask the familiar question “Was I EVER actually good enough”
+* A sense of shock – at not being able to immediately recall skills like test design I took for granted those years ago took 
+* I felt surprisingly out of my comfort zone  
+* Occasional feeling of helplessness – why is it taking me so longer to understand “the basics”
+* Ultimately the old friend imposter syndrome came visiting - causing me to ask the familiar question “Was I EVER actually good enough”
 
 ### Perspective is Queen
 If context is King, then perspective most certainly is Queen.   I realised that I needed to tackle this by gaining a different perspective.  
